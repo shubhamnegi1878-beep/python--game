@@ -1,5 +1,6 @@
+#SNAKE--WATER--GUN
 import random
-''' # game code
+''' # game controls 
 1 for snake  
 -1 for water 
 0  for gun
